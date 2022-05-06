@@ -2,6 +2,7 @@
 .*~
 /luna_pinyin.userdb/*
 /build/*
+/sync/*
 /user.yaml
 /installation.yaml
 opencc/.DS_Store

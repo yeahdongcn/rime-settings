@@ -75,3 +75,5 @@ Mac	mac
 Wi-Fi	wifi
 Apple ID	appleid
 QQ邮箱	qqyzxl
+摩尔	mt	1
+深信服	sxf	2
